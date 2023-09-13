@@ -1,0 +1,5 @@
+#pip install pipreqs
+pandas
+pickle 
+requests
+streamlit
